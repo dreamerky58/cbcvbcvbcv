@@ -1,0 +1,24 @@
+.players-online {
+    font-size: 20px;
+    top: -3px;
+    margin-top: 10px;
+}
+.status-bar {
+    color: rgb(44,44,44);
+    text-align: center;
+    height: 50px;
+    font-family: 'Open Sans',Arial,sans-serif;
+    background-color: white;
+    border-bottom: 3px solid #10436E;
+}
+body {
+    color: rgb(44,44,44);
+    background-color: rgb(228,228,228);
+}
+.staff-circle {
+    border-radius: 50%;
+}
+.rules {
+    font-size: 20px;
+    padding:10px;
+}
